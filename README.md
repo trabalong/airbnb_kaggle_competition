@@ -10,6 +10,11 @@ The goal for this project was a competition in Kaggle organizated by Ironhack Sc
 
 ## Data
 
+-`train.csv`
+-`test.csv`
+-`sample.csv`
+-`predictions.csv`
+
 ## Functions
 
 ## Notebook Main
