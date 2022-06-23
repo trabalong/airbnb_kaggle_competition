@@ -10,10 +10,10 @@ The goal for this project was a competition in Kaggle organizated by Ironhack Sc
 
 ## Data
 
--`train.csv` is the dataset with all the data about accomodations in Amsterdam, his features and his price at that moment. This is the dataset that I use for train.
--`test.csv` is the dataset with more data about accomodations in Amsterdam but without the price information and this is the value that I'm going to predict. This is the dataset that I use for test.
--`sample.csv` is the dataset where I fill my predictions of the price.
--`predictions.csv` is the `sample.csv` dataset filled.
+- `train.csv` is the dataset with all the data about accomodations in Amsterdam, his features and his price at that moment. This is the dataset that I use for train.
+- `test.csv` is the dataset with more data about accomodations in Amsterdam but without the price information and this is the value that I'm going to predict. This is the dataset that I use for test.
+- `sample.csv` is the dataset where I fill my predictions of the price.
+- `predictions.csv` is the `sample.csv` dataset filled.
 
 ## Functions
 
