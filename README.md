@@ -15,9 +15,11 @@ The goal for this project was a competition in Kaggle organizated by Ironhack Sc
 - `sample.csv` is the dataset where I fill my predictions of the price.
 - `predictions.csv` is the `sample.csv` dataset filled.
 
-## Functions
-
 ## Notebook Main
+
+1. Import libraries and load the data.
+2. Check the correlation of features in `train.csv`.
+3. 
 
 ## Resources
 - https://github.com/trabalong/W7-Kaggle_competition
