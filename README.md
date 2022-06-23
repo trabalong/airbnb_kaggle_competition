@@ -5,6 +5,7 @@
 ## Intro
 
 In this project, I'm going to predict the price of Amsterdam's accommodations in AirBnb based on his characteristics. For that, I build predictive models of Machine Learning for train and test the data, calculate the RMSE (root-mean-square error) and make predictions.
+
 The goal for this project was a competition in Kaggle organizated by Ironhack School and where I got the 1st position.
 
 ## Data
