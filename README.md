@@ -19,7 +19,8 @@ The goal for this project was a competition in Kaggle organizated by Ironhack Sc
 
 1. Import libraries and load the data.
 2. Check the correlation of features in `train.csv`.
-3. 
+3. Apply function `pandas.get_dummies()` in `train.csv` and `test.csv` to relevant features.
+4. Define `trans()` function for `train.csv` and `test.csv` that clean and...
 
 ## Resources
 - https://github.com/trabalong/W7-Kaggle_competition
